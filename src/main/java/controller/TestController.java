@@ -8,4 +8,5 @@ package controller;
  **/
 public class TestController {
     public int age;
+    public String testBranch;
 }
