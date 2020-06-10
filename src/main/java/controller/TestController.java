@@ -7,4 +7,5 @@ package controller;
  * @create: 2020-06-10 14:38
  **/
 public class TestController {
+    public int age;
 }
